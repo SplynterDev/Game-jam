@@ -10,3 +10,5 @@ that rewards the player for being quick to attack and move.
 
 The use of a "rage" or "raging" mechanic that triggers once the player kills or attacks several times
 in a row, will therefore be a key feature of this game.
+
+Character, ambient, etc TBP
